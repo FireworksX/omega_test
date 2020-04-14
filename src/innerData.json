@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Банжур",
+    "date": "2020-01-12",
+    "user": {
+      "name": "Александра Иу",
+      "avatar": "https://sun9-65.userapi.com/c857236/v857236641/128434/_TXe4dVNCRk.jpg?ava=1"
+    }
+  },
+  {
+    "text": "Грация кошки, ум картошки",
+    "date": "2020-01-12",
+    "user": {
+      "name": "Екатерина Забродина",
+      "avatar": "https://sun9-21.userapi.com/c850732/v850732171/1db2b1/f7CHJLogn2g.jpg?ava=1"
+    }
+  },
+  {
+    "text": "Ска когда уже несколько месецев говоришь бомжор и тут такое",
+    "date": "2020-01-12",
+    "user": {
+      "name": "Кирилл Решетников",
+      "avatar": "https://sun9-9.userapi.com/rZHgJkUEXNzCMhxR8aigcOLW2bx3fodemjxz-A/CbPInKjHn-s.jpg?ava=1"
+    },
+    "children": [
+      {
+        "text": "Банжур",
+        "date": "2020-01-12",
+        "user": {
+          "name": "Александра Иу",
+          "avatar": "https://sun9-65.userapi.com/c857236/v857236641/128434/_TXe4dVNCRk.jpg?ava=1"
+        }
+      },
+      {
+        "text": "Грация кошки, ум картошки",
+        "date": "2020-01-12",
+        "user": {
+          "name": "Екатерина Забродина",
+          "avatar": "https://sun9-21.userapi.com/c850732/v850732171/1db2b1/f7CHJLogn2g.jpg?ava=1"
+        },
+        "children": [
+          {
+            "text": "Грация кошки, ум картошки",
+            "date": "2020-01-12",
+            "user": {
+              "name": "Екатерина Забродина",
+              "avatar": "https://sun9-21.userapi.com/c850732/v850732171/1db2b1/f7CHJLogn2g.jpg?ava=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "А где аморальные мемасы?",
+    "date": "2020-01-12",
+    "user": {
+      "name": "Константин Черненко",
+      "avatar": "https://sun9-68.userapi.com/c855128/v855128327/210857/PR0FKi6SiEE.jpg?ava=1"
+    }
+  }
+]
